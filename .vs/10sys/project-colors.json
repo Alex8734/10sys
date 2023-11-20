@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47866b9d-0755-49d8-90bb-c63cb94aa579": {
+      "ProjectGuid": "47866b9d-0755-49d8-90bb-c63cb94aa579",
+      "DisplayName": "10sys",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Sonstige Dateien",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
