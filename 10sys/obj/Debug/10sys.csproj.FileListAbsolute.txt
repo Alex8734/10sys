@@ -36,3 +36,13 @@ U:\10sys - Kopie\10sys\obj\Debug\10sys.csproj.CoreCompileInputs.cache
 U:\10sys - Kopie\10sys\obj\Debug\10sys.csproj.CopyComplete
 U:\10sys - Kopie\10sys\obj\Debug\10sys.exe
 U:\10sys - Kopie\10sys\obj\Debug\10sys.pdb
+C:\Users\aresc\source\repos\10sys2.0\10sys\bin\Debug\10sys.exe.config
+C:\Users\aresc\source\repos\10sys2.0\10sys\bin\Debug\10sys.exe
+C:\Users\aresc\source\repos\10sys2.0\10sys\bin\Debug\10sys.pdb
+C:\Users\aresc\source\repos\10sys2.0\10sys\obj\Debug\10sys.csproj.AssemblyReference.cache
+C:\Users\aresc\source\repos\10sys2.0\10sys\obj\Debug\_10sys.Form1.resources
+C:\Users\aresc\source\repos\10sys2.0\10sys\obj\Debug\_10sys.Properties.Resources.resources
+C:\Users\aresc\source\repos\10sys2.0\10sys\obj\Debug\10sys.csproj.GenerateResource.cache
+C:\Users\aresc\source\repos\10sys2.0\10sys\obj\Debug\10sys.csproj.CoreCompileInputs.cache
+C:\Users\aresc\source\repos\10sys2.0\10sys\obj\Debug\10sys.exe
+C:\Users\aresc\source\repos\10sys2.0\10sys\obj\Debug\10sys.pdb
