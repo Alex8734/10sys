@@ -89,7 +89,7 @@ namespace _10sys
                     }
                     for (int j = 1; j <= 3; j++)
                     {
-                        var items15 = GetLektionItems($"{lekNr}02{j:00}");
+                        var items15 = GetLektionItems($"{lekNr}03{j:00}");
                         foreach (var artikel in items15)
                         {
                             CreateCategories(artikel);
@@ -322,7 +322,7 @@ namespace _10sys
         {
             string strSql = "SELECT Lektion FROM T_EasyTypingLektionen WHERE Lektionnr = @Nr";
 
-            using (OleDbConnection conn = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=U:\etlektionen.mdb"))
+            using (OleDbConnection conn = new OleDbConnection(@"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=U:\etlektionen.mdb"))
             {
                 conn.Open();
                 using (OleDbCommand command = new OleDbCommand(strSql, conn))
@@ -345,7 +345,7 @@ namespace _10sys
         {
             string strSql = "SELECT Bezeichnung1, Bezeichnung2, Lektion, Lektionnr FROM T_EasyTypingLektionen WHERE LektionNr LIKE @Nr";
 
-            using (OleDbConnection conn = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0;Data Source=U:\etlektionen.mdb"))
+            using (OleDbConnection conn = new OleDbConnection(@"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=U:\etlektionen.mdb"))
             {
                 conn.Open();
                 using (OleDbCommand command = new OleDbCommand(strSql, conn))
